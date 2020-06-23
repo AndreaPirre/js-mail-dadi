@@ -21,5 +21,4 @@ if (emailTrovata == true) {
     emailRisultato.innerHTML = "La tua email non è presente in elenco";
 }
 
-
 });
